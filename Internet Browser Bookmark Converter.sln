@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internet Browser Bookmark Converter", "Internet Browser Bookmark Converter\Internet Browser Bookmark Converter.csproj", "{15FB7A45-6B9C-4A2E-BE69-92EB30763FFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15FB7A45-6B9C-4A2E-BE69-92EB30763FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FB7A45-6B9C-4A2E-BE69-92EB30763FFB}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{15FB7A45-6B9C-4A2E-BE69-92EB30763FFB}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{15FB7A45-6B9C-4A2E-BE69-92EB30763FFB}.Debug|x86.ActiveCfg = Debug|x86
+		{15FB7A45-6B9C-4A2E-BE69-92EB30763FFB}.Debug|x86.Build.0 = Debug|x86
+		{15FB7A45-6B9C-4A2E-BE69-92EB30763FFB}.Release|Any CPU.ActiveCfg = Release|x86
+		{15FB7A45-6B9C-4A2E-BE69-92EB30763FFB}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{15FB7A45-6B9C-4A2E-BE69-92EB30763FFB}.Release|Mixed Platforms.Build.0 = Release|x86
+		{15FB7A45-6B9C-4A2E-BE69-92EB30763FFB}.Release|x86.ActiveCfg = Release|Any CPU
+		{15FB7A45-6B9C-4A2E-BE69-92EB30763FFB}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\devenv\src\GitHub\Internet Browser Bookmark Converter\Internet Browser Bookmark Converter\bin\Debug\Internet Browser Bookmark Converter.exe.config
+C:\devenv\src\GitHub\Internet Browser Bookmark Converter\Internet Browser Bookmark Converter\obj\x86\Debug\Interop.Shell32.dll
+C:\devenv\src\GitHub\Internet Browser Bookmark Converter\Internet Browser Bookmark Converter\obj\x86\Debug\Internet Browser Bookmark Converter.csproj.ResolveComReference.cache
+C:\devenv\src\GitHub\Internet Browser Bookmark Converter\Internet Browser Bookmark Converter\obj\x86\Debug\Internet Browser Bookmark Converter.csprojResolveAssemblyReference.cache
+C:\devenv\src\GitHub\Internet Browser Bookmark Converter\Internet Browser Bookmark Converter\bin\Debug\Internet Browser Bookmark Converter.exe
+C:\devenv\src\GitHub\Internet Browser Bookmark Converter\Internet Browser Bookmark Converter\bin\Debug\Internet Browser Bookmark Converter.pdb
+C:\devenv\src\GitHub\Internet Browser Bookmark Converter\Internet Browser Bookmark Converter\bin\Debug\NDesk.Options.dll
+C:\devenv\src\GitHub\Internet Browser Bookmark Converter\Internet Browser Bookmark Converter\obj\x86\Debug\Internet Browser Bookmark Converter.exe
+C:\devenv\src\GitHub\Internet Browser Bookmark Converter\Internet Browser Bookmark Converter\obj\x86\Debug\Internet Browser Bookmark Converter.pdb
